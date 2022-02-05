@@ -50,6 +50,10 @@ p {
     box-shadow: 0px 3px 20px 5px rgba(0, 0, 0, 0.1);
     position: relative;
 }
+.container div h2 {
+    font-size: 18px;
+    opacity: .8;
+}
 .container div p {
     opacity: .5;
 }
